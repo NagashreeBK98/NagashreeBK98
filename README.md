@@ -1,6 +1,6 @@
 ![Data Analytics Engineer](https://raw.githubusercontent.com/NagashreeBK98/NagashreeBK98/refs/heads/main/hero.svg)
 
-🎓 **MS in Data Analytics Engineering** — Northeastern University (Expected 2027)  
+🎓 **MS in Data Analytics Engineering** — **Northeastern University** (Expected 2027)  
 📍 **Boston, Massachusetts, USA**  
 🔎 **Actively seeking Internship / Co-op opportunities (Summer / Fall 2026)**
 
@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| **📈 Experience**  <br/> 5+ years of industry experience working with enterprise data, KPIs, dashboards, logs, and operational analytics. <br/><br/> **⚙️ What I Build**  <br/> End-to-end data pipelines, analytics platforms, and business-ready BI dashboards. <br/><br/> **☁️ Tech Focus**  <br/> Azure • AWS • Databricks • Synapse • Python • SQL • Power BI • Tableau. <br/><br/> **🎯 Impact**  <br/> Turning complex datasets into insights that enable confident, data-driven decisions. | <p align="center"><img src="https://miro.medium.com/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" width="260"/></p> |
+| **📈 Experience**  <br/> 5+ years of industry experience working with enterprise data, KPIs, dashboards, logs, and operational analytics. <br/><br/> **⚙️ What I Build**  <br/> End-to-end data pipelines, analytics platforms, and business-ready BI dashboards. <br/><br/> **☁️ Tech Focus**  <br/> Azure • AWS • GCP • Databricks • Synapse • Python • SQL • Power BI • Tableau. <br/><br/> **🎯 Impact**  <br/> Turning complex datasets into insights that enable confident, data-driven decisions. | <p align="center"><img src="https://miro.medium.com/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" width="260"/></p> |
 
 📌 **Measurable Impact**
 - Built analytics and dashboards supporting data-driven decisions across multiple teams  
@@ -59,12 +59,22 @@
 ## 🧠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,azure,aws,databricks,github,mysql,postgresql,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,mongodb,azure,aws,gcp,databricks,github,linux,windows" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,tableau" />
+</p>
+
+<p align="center">
+  ⚙️ Power BI • Azure Synapse • Azure Data Lake • SQL • Python • AWS • Linux • Virtual Machines
 </p>
 
 ---
 
-### **💡 Data is only powerful when it creates clarity — I engineer end-to-end analytics systems that turn raw data into confident decisions.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Data+is+only+powerful+when+it+creates+clarity.;I+engineer+end-to-end+analytics+systems+that+turn+raw+data+into+confident+decisions." />
+</p>
 
 ---
 
