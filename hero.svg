@@ -1,0 +1,55 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f0036"/>
+      <stop offset="50%" stop-color="#3b1c6e"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+
+    <!-- Neon glow -->
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="420" fill="url(#bg2)"/>
+
+  <!-- Neon wave -->
+  <path d="M0 300 Q400 200 800 280 T1600 250"
+        fill="none"
+        stroke="#00fff7"
+        stroke-width="2"
+        opacity="0.45"/>
+
+  <!-- Name -->
+  <text x="100" y="180"
+        font-size="46"
+        font-family="Segoe UI, Arial"
+        fill="#ffffff"
+        filter="url(#glow2)">
+    Nagashree Bommenahalli Kumaraswamy
+  </text>
+
+  <!-- Role -->
+  <text x="100" y="235"
+        font-size="25"
+        font-family="Segoe UI, Arial"
+        fill="#00fff7"
+        filter="url(#glow2)">
+    Data Analytics Engineer | 5+ Years of Industry Experience
+  </text>
+
+  <!-- Tagline -->
+  <text x="100" y="275"
+        font-size="20"
+        font-family="Segoe UI, Arial"
+        fill="#f0ffff">
+    Analytics • Data Engineering • Cloud • Business Intelligence
+  </text>
+</svg>
