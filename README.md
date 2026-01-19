@@ -2,7 +2,8 @@
 
 🎓 **MS in Data Analytics Engineering** — **Northeastern University** (Expected 2027)  
 📍 **Boston, Massachusetts, USA**  
-🔎 **Actively seeking Internship / Co-op opportunities (Summer / Fall 2026)**
+🔎 **Actively seeking Internship / Co-op opportunities (Summer / Fall 2026)**  
+🌐 **Portfolio:** https://nagashreebk.online/
 
 ---
 
@@ -80,6 +81,7 @@
 
 ## 🔗 Contact
 
+- 🌐 **Portfolio:** https://nagashreebk.online/
 - 📧 **Email:** bommenahallikumara.n@northeastern.edu  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nagashreebk  
 - 💻 **GitHub:** https://github.com/NagashreeBK98
