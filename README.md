@@ -1,15 +1,5 @@
 ![Data Analytics Engineer](https://raw.githubusercontent.com/NagashreeBK98/NagashreeBK98/refs/heads/main/hero.svg)
 
-<h1 align="center">Hi, I'm Nagashree 👋</h1>
-
-<p align="center">
-  🎓 <strong>MS in Data Analytics Engineering</strong> — <strong>Northeastern University</strong> (Expected 2027) &nbsp;|&nbsp; 📍 <strong>Boston, Massachusetts, USA</strong>
-</p>
-
-<p align="center">
-  🔎 <strong>Actively seeking Data Engineer / Data Analyst Co-op & Internship — Summer / Fall 2026</strong>
-</p>
-
 <p align="center">
   <a href="https://nagashreebk.online/"><img src="https://img.shields.io/badge/Portfolio-nagashreebk.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nagashreebk"><img src="https://img.shields.io/badge/LinkedIn-nagashreebk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -44,14 +34,14 @@
 
 | | |
 |---|---|
-| **📈 Background** <br/> Data Engineer at DXC Technology — enterprise ETL pipelines, Power BI dashboards, Azure Data Factory, and Synapse Analytics. Now pursuing MS at Northeastern, deepening expertise in MLOps, LLMs, and production-grade ML systems. <br/><br/> **⚙️ What I Build** <br/> End-to-end data pipelines · MLflow-tracked ML experiments · RAG-based AI apps · BI dashboards · Containerized ML workflows <br/><br/> **☁️ Tech Focus** <br/> Azure • AWS • GCP • Databricks • MLflow • Airflow • Docker • Python • SQL • Power BI • LLMs <br/><br/> **🎯 Impact** <br/> From raw ingestion to production-ready ML systems — building data infrastructure that scales and insights that drive decisions. | <p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/></p> |
+| **📈 Background** <br/> Data Engineer at DXC Technology — enterprise ETL pipelines, Power BI dashboards, Azure Data Factory, and Synapse Analytics. Now pursuing MS at Northeastern, deepening expertise in MLOps, LLMs, and production-grade ML systems. <br/><br/> **⚙️ What I Build** <br/> End-to-end data pipelines · MLflow-tracked ML experiments · RAG-based AI apps · BI dashboards · Containerized ML workflows <br/><br/> **☁️ Tech Focus** <br/> Azure • GCP • AWS • Databricks • MLflow • Airflow • Docker • Python • SQL • Power BI • LLMs <br/><br/> **🎯 Impact** <br/> From raw ingestion to production-ready ML systems — building data infrastructure that scales and insights that drive decisions. | <p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/></p> |
 
 📌 **Measurable Impact**
 - Optimized ETL pipelines at DXC Technology, improving data processing efficiency across enterprise reporting workflows
 - Built Power BI dashboards consumed by multiple business teams for real-time operational decision-making
 - Designed Bronze–Silver–Gold medallion architecture for scalable data lake processing
-- Engineered AI-powered RAG chatbot with Airflow orchestration and Great Expectations data validation
-- Tracked ML experiments end-to-end using **MLflow** — logging parameters, metrics, models, and artifacts for reproducible pipelines
+- Engineered a production MLOps project (CourseWeave AI) using Airflow, GCP, MLflow, RAG, and Great Expectations
+- Applied end-to-end MLOps lifecycle: data versioning → experiment tracking → model deployment → monitoring
 
 ---
 
@@ -63,35 +53,20 @@
 
 ---
 
-### 🧪 MLOps Pipeline — **End-to-End ML Lifecycle with MLflow**
-**Course:** DADS 7305 — MLOps at Northeastern University (Prof. Ramin Mohammadi)
-**Tech:** MLflow · Python · Docker · GitHub Actions · CI/CD · DVC · Great Expectations · Apache Airflow
+### 🤖 CourseWeave AI — **Production MLOps · RAG Chatbot for NEU Course Recommendations**
+**Tech:** Apache Airflow · MLflow · GCP · Great Expectations · DVC · Python · LLMs · RAG · Docker · CI/CD · Vector DB
 
-> Production-grade MLOps pipeline covering the complete ML lifecycle — from data versioning to experiment tracking to model deployment and monitoring.
+> Full-stack MLOps project — production-grade AI pipeline with experiment tracking, data versioning, cloud deployment, and a RAG-powered recommendation engine.
 
-- 📊 **Experiment Tracking** with **MLflow** — logged parameters, metrics, artifacts, and model versions across all runs using the MLflow Model Registry
-- 🔄 **Pipeline Orchestration** with **Apache Airflow** — automated DAGs for training, validation, and deployment triggers
-- 📦 **Data Versioning** with **DVC** — reproducible datasets and pipeline stages tracked alongside code in Git
-- ✅ **Data Validation** with **Great Expectations** — automated schema checks, anomaly detection, and quality gates
-- 🐳 **Containerization** with **Docker** — consistent, reproducible environments across development and production
+- 🔄 **Pipeline Orchestration** with **Apache Airflow** — automated DAGs for ingestion, validation, training, and deployment triggers
+- 🧪 **Experiment Tracking** with **MLflow** — logged parameters, metrics, and model versions; managed models via the MLflow Model Registry
+- ☁️ **Cloud Deployment on GCP** — leveraged Google Cloud services for scalable storage, compute, and model serving
+- 🤖 **RAG Architecture** — Retrieval-Augmented Generation for intelligent, context-aware course recommendations using a Vector DB
+- ✅ **Data Validation** with **Great Expectations** — automated schema checks, anomaly detection, and Slack alerting for quality gates
+- 📦 **Data Versioning** with **DVC** — reproducible pipeline stages and datasets tracked alongside code
+- 🐳 **Containerization** with **Docker** — consistent, reproducible environments across dev and production
 - ⚙️ **CI/CD** via **GitHub Actions** — automated testing, linting, and model promotion workflows
-- 📉 **Model Monitoring** — data drift detection and automated retraining triggers for production stability
-- 🤖 **LLMOps practices** — evaluation, alignment, and lifecycle management for large language models
-
-🔗 https://github.com/NagashreeBK98/MLOps-Pipeline
-
----
-
-### 🤖 CourseWeave AI — **RAG Chatbot for NEU Course Recommendations**
-**Tech:** Apache Airflow · Great Expectations · DVC · Python · LLMs · RAG · Docker · CI/CD · Vector DB
-
-> AI-powered course recommendation system using Retrieval-Augmented Generation (RAG) with production-quality data pipelines.
-
-- Built **end-to-end AI data pipeline** orchestrated with **Apache Airflow** for course data ingestion and processing
-- Implemented **RAG (Retrieval-Augmented Generation)** architecture for intelligent, context-aware recommendations
-- Enforced **data quality gates** using Great Expectations with automated anomaly detection and Slack alerting
-- Integrated **DVC** for dataset versioning and reproducible pipeline runs
-- Applied **CI/CD practices** for automated testing and deployment of all pipeline components
+- 📉 **Model Monitoring** — data drift detection and automated retraining triggers
 
 🔗 https://github.com/NagashreeBK98/CourseWeave-AI
 
@@ -135,12 +110,12 @@
 
 ### ☁️ Cloud & Big Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,databricks,linux" />
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,databricks,linux" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/GCP%20Cloud%20Services-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/>
 </p>
 
 ### 🤖 MLOps & ML Engineering
@@ -175,7 +150,7 @@
 
 ---
 
-## 🌱 Currently Learning — MLOps & Beyond
+## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="220"/>
@@ -188,29 +163,17 @@
 ⚙️  CI/CD for ML            →  GitHub Actions · Automated Testing · Model Promotion
 🤖 LLMs & RAG              →  LangChain · Vector Databases · Prompt Engineering · LLMOps
 📦 Data Versioning         →  DVC · Reproducible Pipelines
-☁️  Cloud Native ML         →  AWS SageMaker · GCP Vertex AI · Serverless Pipelines
+☁️  Cloud Native ML         →  GCP Vertex AI · AWS SageMaker · Serverless Pipelines
 📊 Advanced Analytics      →  dbt · Spark Streaming · Real-time Dashboards
 📉 Model Monitoring        →  Data Drift Detection · Automated Retraining
 ```
 
----
-
-## 🎓 Coursework Spotlight
-
-**DADS 7305 — Machine Learning in Production (MLOps)**
-*Northeastern University · Prof. Ramin Mohammadi*
-
-Hands-on production ML course covering:
-- End-to-end ML pipelines with **MLflow** experiment tracking and model registry
-- **CI/CD/CM/CT** — Continuous Integration, Deployment, Monitoring, and Training for ML
-- Containerization and orchestration of ML workloads using **Docker + Airflow**
-- Data drift detection, model retraining, and production system monitoring
-- **LLMOps** — evaluation, alignment, deployment, and lifecycle management for LLMs
+**Course:** DADS 7305 — Machine Learning in Production (MLOps) · Northeastern University · *Prof. Ramin Mohammadi*
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=960&lines=Data+is+only+powerful+when+it+creates+clarity.;I+engineer+end-to-end+ML+systems+from+raw+data+to+production.;MLflow+%7C+Airflow+%7C+Docker+%7C+LLMs+%7C+RAG+%7C+CI%2FCD+%7C+Azure." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=960&lines=Data+is+only+powerful+when+it+creates+clarity.;I+engineer+end-to-end+ML+systems+from+raw+data+to+production.;MLflow+%7C+Airflow+%7C+GCP+%7C+Docker+%7C+LLMs+%7C+RAG+%7C+CI%2FCD." />
 </p>
 
 ---
